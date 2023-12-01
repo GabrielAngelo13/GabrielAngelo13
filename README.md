@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabrielAngelo13
 - 👀 I’m interested in coding and editing videos
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on you!
+- 💞️ I’m looking to collaborate with you!
 - 📫 Chat me at facebook to contact me
 
 <!---
